@@ -4,13 +4,19 @@
 
 This project analyzes the Olist Brazilian E-Commerce dataset to understand customer behavior, sales trends, seller performance, and delivery efficiency. The goal is to generate business insights that can support data-driven decision making.
 
-## Business Questions
+## Key Visualizations
 
-- How has revenue changed over time?
-- Which product categories generate the highest revenue?
-- Which customer regions contribute the most sales?
-- Which sellers drive the largest share of revenue?
-- Are there delivery delays that may affect customer experience?
+### Monthly Revenue Trend
+
+![Revenue Trend](images/revenue_trend.png)
+
+### Top Product Categories by Revenue
+
+![Top Categories](images/top_categories.png)
+
+### Delivery Time Outliers
+
+![Delivery Outliers](images/delivery_outliers.png)
 
 ## Dataset
 
@@ -26,6 +32,15 @@ The dataset contains information about:
 - Reviews
 
 The data represents real e-commerce transactions from Brazil.
+
+## Business Questions
+
+- How has revenue changed over time?
+- Which product categories generate the highest revenue?
+- Which customer regions contribute the most sales?
+- Which sellers drive the largest share of revenue?
+- Are there delivery delays that may affect customer experience?
+
 
 ## Project Workflow
 
